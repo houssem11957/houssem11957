@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @houssem11957
-- 👀 C# (ASP.NET MVC and Core)
-- 🌱 I’m currently learning C#,javascript,Css and Html
-- 💞️ I’m looking to collaborate on C# projects
+- 👀 C# (ASP.NET MVC and Core
 - 📫 email: Houssem.hcini.ing.92@gmail.com
 
 <!---
